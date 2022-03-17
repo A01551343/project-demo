@@ -1,4 +1,6 @@
 
 
 substraction
-practica
+practicaa
+
+subs dos
